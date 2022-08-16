@@ -18,10 +18,11 @@
           ></path>
         </svg>
         </label>
-        <ul tabindex="0" class="dropdown-content menu p-2 shadow bg-neutral rounded-box w-52">
-          <li><a>Dashboard</a></li>
-          <li><a>Commands</a></li>
-          <li><a>Updates</a></li>
+        <ul tabindex="0" class="dropdown-content menu p-2 shadow bg-neutral rounded-box w-42">
+          <li><a href="/">Home</a></li>
+          <li><a href="/dashboard">Dashboard</a></li>
+          <li><a href="/commands">Commands</a></li>
+          <li><a href="/udpates">Updates</a></li>
         </ul>
       </div>
     </div>
